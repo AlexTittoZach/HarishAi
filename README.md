@@ -1,9 +1,6 @@
 # 🧠 HarishAI - AI Mental Health Companion
 
 > A compassionate AI-powered mental health companion built with React, TypeScript, and modern web technologies. HarishAI provides emotional support, mood tracking, music therapy, and mental health resources with a focus on Indian users.
-
-![HarishAI Banner](https://via.placeholder.com/800x400/0c96e6/ffffff?text=HarishAI+Mental+Health+Companion)
-
 ## 🌟 Live Demo
 
 **🚀 [Try HarishAI Live](https://harishai.netlify.app)**
