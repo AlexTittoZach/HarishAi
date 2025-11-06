@@ -2,11 +2,7 @@
 
 > A compassionate AI-powered mental health companion built with React, TypeScript, and modern web technologies. HarishAI provides emotional support, mood tracking, music therapy, and mental health resources with a focus on Indian users.
 <<<<<<< HEAD
-
-![HarishAI Banner](https://via.placeholder.com/800x400/0c96e6/ffffff?text=HarishAI+Mental+Health+Companion)
-
-=======
->>>>>>> b8bfce43c4012eb9b558ff3ab780f08d966659ec
+> 
 ## 🌟 Live Demo
 
 **🚀 [Try HarishAI Live](https://harishai.netlify.app)**
@@ -172,22 +168,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for mental health awareness and support**
 
-<<<<<<< HEAD
-*If you're struggling with mental health, please reach out to a mental health professional or crisis helpline. This app is a supportive tool, not a replacement for professional care.*
 
-## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/harishai?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/harishai?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/harishai)
-![GitHub license](https://img.shields.io/github/license/yourusername/harishai)
-
-## 🔗 Links
-
-- **Live Demo:** [harishai.netlify.app](https://harishai.netlify.app)
-- **Documentation:** [GitHub Wiki](https://github.com/yourusername/harishai/wiki)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/harishai/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/harishai/discussions)
-=======
-
->>>>>>> b8bfce43c4012eb9b558ff3ab780f08d966659ec
