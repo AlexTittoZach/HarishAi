@@ -1,2 +1,2 @@
 # HarishAi
-Ai mental chat bot with Spotify song recommendation based on mood.
+Ai mental health companion with Spotify song recommendation based on mood.
