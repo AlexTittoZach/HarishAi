@@ -122,23 +122,11 @@
 2. Set environment variables in Vercel dashboard
 3. Deploy automatically on push
 
-<<<<<<< HEAD
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-=======
->>>>>>> b8bfce43c4012eb9b558ff3ab780f08d966659ec
+
 ## 🙏 Acknowledgments
 
 - **Team:** Alex, Namitha, Aldrin, Harish
@@ -147,20 +135,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Icons:** Lucide React
 - **Inspiration:** Making mental health support accessible to everyone
 
-## 📞 Support & Resources
-
-### Emergency Contacts (India)
-- **KIRAN Helpline:** 1800-599-0019 (24/7)
-- **Vandrevala Foundation:** 9999 666 555
-- **iCall (TISS):** 9152987821 (8 AM-10 PM)
-- **Sneha (Chennai):** 044-24640050
-
-### Mental Health Resources
-- [NIMHANS](https://www.nimhans.ac.in)
-- [Live Love Laugh Foundation](https://www.thelivelovelaughfoundation.org)
-- [YourDOST](https://www.yourdost.com)
-
----
 
 **Made with ❤️ for mental health awareness and support**
 
